@@ -1,0 +1,112 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
+  font-style: normal;
+  margin-bottom: 0;
+  border: 15px solid rgb(221, 222, 214);
+  padding: 0px;
+  border-radius: 15px;
+}
+
+.activities-img {
+  width: 350px;
+  height: auto;
+  border-radius: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid #0081a7;
+}
+
+.hero {
+  background-image: url("Images/Mersintekneler.jpg");
+  background-size: cover;
+  height: 300px;
+  height: 700px;
+  text-align: center;
+  /* margin: top;
+  margin-bottom: 0px; */
+  /* padding-top: 200px; */
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  border: 5px solid #fdfcdc;
+  background-color: #fdfcdc;
+  border-width: 2px;
+  padding: 15px;
+  margin-top: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: ;
+  border-radius: 15px;
+}
+
+h2 {
+  border: 5px solid #fed9b7;
+  background-color: #fed9b7;
+  margin-top: 50px;
+  border-radius: 15px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 2px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.guide {
+  display: flex;
+  text-align: center;
+  margin: auto;
+  width: 500px;
+  background-color: #6bc1c6;
+  border: 5px solid #f07167;
+  border-radius: 10px;
+  padding: 15px;
+  /* margin-bottom: 1500px; */
+}
+.guide-card {
+  background-color: #fed9b7;
+  padding-bottom: 100px;
+}
+.avatar {
+  width: 150px;
+  /* height: auto; */
+  border-radius: 150px;
+}
+.activities {
+  background-color: #fdfcdc;
+  margin-top: 0;
+}
+.do-things {
+  display: flex;
+  text-align: justify;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.do-things-block {
+  display: block;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3 {
+  margin-top: 0;
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+
+h7 {
+  margin-top: 25px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* .guide-card {
+  margin-bottom: 50px;
+} */
