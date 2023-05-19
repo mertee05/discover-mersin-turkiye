@@ -4,9 +4,9 @@ body {
   font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
   font-style: normal;
   margin-bottom: 0;
-  border: 15px solid rgb(221, 222, 214);
+  border: 15px solid rgb(161, 233, 215);
   padding: 0px;
-  border-radius: 15px;
+  border-radius: 16px;
 }
 
 .activities-img {
